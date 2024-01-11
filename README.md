@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an exploration of Retrieval-Augmented Generation (RAG) techniques using Langchain and LlamaIndex frameworks. The primary objectives are:
+This project is an exploration of Retrieval Augmented Generation (RAG) techniques using Langchain and LlamaIndex frameworks. The primary objectives are:
 
 1. **Langchain Experimentation:**
    - Understand the functionalities of Langchain components such as document loaders, text splitters, embeddings, and vector stores.
